@@ -60,10 +60,10 @@ docker-from-zero-to-hero/
 | **Dockerfile**           | Writing your own Dockerfile                |
 | **Docker Images**        | Build, tag, push to DockerHub              |
 | **Multi-Stage Builds**   | Optimize images                            |
-| **Dockerfile + Compose** | Combining Dockerfile with Compose          |
 | **Docker Networking**    | Bridge, host, overlay, custom networks     |
 | **Docker Volumes**       | Persistent storage                         |
-| **Advanced Compose**     | Multi-service apps with Compose            |
+| **docker Compose**       | Multi-service apps with Compose            |
+| **node-mongo-app**       | docker + docker compose                    |
 | **Weather App Project**  | Real-world Dockerized project              |
 
 ---
@@ -124,7 +124,13 @@ Here’s how you can contribute:
 - 💼 [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)  
 - ✍️ [Hashnode Blog](https://ritesh-devops.hashnode.dev)  
 
- 
+---
+
+<p align="center">
+  If you like this project or found it helpful,  
+  <br>
+  🌟 Please give it a star — it motivates me to keep going! 🌟
+</p>
 
 
 
