@@ -131,7 +131,7 @@ Here’s how you can contribute:
   🌟 Please give it a star — it motivates me to keep going! 
 </p>
 
- ## [star_here🌟](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
+
 
 
 
