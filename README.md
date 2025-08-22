@@ -54,8 +54,8 @@ docker-from-zero-to-hero/
 
 | Topic                    | What You’ll Learn                          | links
 | ------------------------ | ------------------------------------------ |--------------------------|
-| **Docker Basics**        | Installation, Hello World, first container |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/)|
-| **Docker Commands**      | ps, exec, logs, rm, images, prune          |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-basics)|
+| **Docker Basics**        | Installation, Hello World, first container |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-basics)|
+| **Docker Commands**      | ps, exec, logs, rm, images, prune          |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-commands)|
 | **Dockerfile**           | Writing your own Dockerfile                |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-file)|
 | **Docker Images**        | Build, tag, push to DockerHub              |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-image)|
 | **Multi-Stage Builds**   | Optimize images                            |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-multistage-build)|
