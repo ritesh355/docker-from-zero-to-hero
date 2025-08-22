@@ -22,8 +22,11 @@ weather-app/
 └── README.md                # Project documentation
 ```
 
-### [ click here for project code]()
+--- 
 
+### [ click here for project code](https://github.com/ritesh355/weather-app)
+
+---
 ## 🚀 Features
 
 - 🐍 Python Flask backend
