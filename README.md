@@ -82,7 +82,42 @@ Here are the best resources I used while learning:
 - 🎥 [Docker Mastery – Udemy Course](https://www.udemy.com/course/docker-mastery/) – A complete hands-on course for beginners to advanced.  
 - 📘 [Play with Docker](https://labs.play-with-docker.com/) – Free online playground for practicing Docker commands.  
 - 🐳 [DockerHub](https://hub.docker.com/) – Explore and pull pre-built images to speed up development.  
-- 📝 [CheatSheet – Docker Commands](https://dockerlabs.collabnix.com/docker/cheatsheet/) – Quick reference for common Docker commands.  
+- 📝 [CheatSheet – Docker Commands](https://dockerlabs.collabnix.com/docker/cheatsheet/) – Quick reference for common Docker commands.
+
+---
+## 🤝 Contributing
+
+Want to add improvements, examples, or projects?
+
+Here’s how you can contribute:
+
+1. **Fork the repo** 🍴  
+   Click the "Fork" button at the top-right of this page.
+
+2. **Clone your fork**
+   
+```bash
+   git clone https://github.com/ritesh355/docker-from-zero-to-hero.git
+   cd docker-from-zero-to-hero
+```
+3. **Create a feature branch 🌱**
+   ```bash
+      git checkout -b feature/your-feature-name
+   ``` 
+4. **Commit your changes 💾**
+   ```bash
+    git add .
+    git commit -m "Add: your meaningful commit message"
+   ```
+5. **Pushz to your fork 🚀**
+   ```bash
+    git push origin feature/your-feature-name
+   ```  
+6. **Open a Pull Request 🎉**
+ Go to your fork on GitHub and click "New Pull Request".
+   
+---
+ 
 
 
 
