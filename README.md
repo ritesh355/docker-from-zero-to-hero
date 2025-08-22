@@ -3,20 +3,21 @@
 </p>
 
 ---
-<h1 align="center">🐳 Docker From Zero to Hero 🚀</h1>
+# 🚀 Docker From Zero To Hero
 
-<p align="center">
-  A complete hands-on guide to learning Docker step by step.<br>
-  Documenting my journey while helping others master DevOps faster 💡
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/network/members)
+[![License](https://img.shields.io/github/license/ritesh355/docker-from-zero-to-hero)](./LICENSE)
 
-<p align="center">
-  <a href="https://linkedin.com/in/ritesh-singh-092b84340"><img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://github.com/ritesh355"><img src="https://img.shields.io/badge/Check%20More-GitHub-black?logo=github" /></a>
-</p>
+## 📖 Introduction
+Learn Docker step-by-step with hands-on examples.  
+This repo is designed for beginners who want to go from zero to hero.
 
+## ⚡ Quick Start
+```bash
+git clone https://github.com/ritesh355/docker-from-zero-to-hero.git
+cd docker-from-zero-to-hero
 ---
-
 ## 📌 Table of Contents
 - [📖 Introduction](#-introduction)
 - [🗂️ Folder Structure](#️-folder-structure)
