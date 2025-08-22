@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-Learning-blue?logo=docker" />
   <a href="https://linkedin.com/in/ritesh-singh-092b84340"><img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?logo=linkedin" /></a>
   <a href="https://github.com/ritesh355"><img src="https://img.shields.io/badge/Check%20More-GitHub-black?logo=github" /></a>
 </p>
