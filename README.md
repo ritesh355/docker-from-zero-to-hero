@@ -77,7 +77,9 @@ Here are the best resources I used while learning:
 - 📚 [Youtube free resources](https://www.youtube.com/watch?v=vWjP3fsfgrw&list=PLoz1vq3JRiWNZBHNOf8uGuXaYTTogQA0t)
 - 📚 [Youtube free resources](https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC)
 - 📚 [Youtube free resources](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=46s)
-- 📚 [docker in one shot](https://www.youtube.com/watch?v=9bSbNNH4Nqw&t=8048s)
+- 📚 [ youtube docker in one shot](https://www.youtube.com/watch?v=9bSbNNH4Nqw&t=8048s)
+- 📚 [Youtube free resources](https://www.youtube.com/watch?v=exmSJpJvIPs&t=6512s)
+- 📚 [Youtube free resources](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
 - 📖 [GEEKSFORGEEKS](https://www.geeksforgeeks.org/devops/docker-tutorial/)
 - 🎥 [Docker Mastery – Udemy Course](https://www.udemy.com/course/docker-mastery/) – A complete hands-on course for beginners to advanced.  
 - 📘 [Play with Docker](https://labs.play-with-docker.com/) – Free online playground for practicing Docker commands.  
