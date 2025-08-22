@@ -52,18 +52,20 @@ docker-from-zero-to-hero/
 ---
 ## 🚀 Learning Roadmap
 
-| Topic                    | What You’ll Learn                          |
-| ------------------------ | ------------------------------------------ |
-| **Docker Basics**        | Installation, Hello World, first container |
-| **Docker Commands**      | ps, exec, logs, rm, images, prune          |
-| **Dockerfile**           | Writing your own Dockerfile                |
-| **Docker Images**        | Build, tag, push to DockerHub              |
-| **Multi-Stage Builds**   | Optimize images                            |
-| **Docker Networking**    | Bridge, host, overlay, custom networks     |
-| **Docker Volumes**       | Persistent storage                         |
-| **docker Compose**       | Multi-service apps with Compose            |
-| **node-mongo-app**       | docker + docker compose                    |
-| **Weather App Project**  | Real-world Dockerized project              |
+| Topic                    | What You’ll Learn                          | links
+| ------------------------ | ------------------------------------------ |--------------------------|
+| **Docker Basics**        | Installation, Hello World, first container |[clickme]()
+| **Docker Commands**      | ps, exec, logs, rm, images, prune          |[clickme]()
+| **Dockerfile**           | Writing your own Dockerfile                |[clickme]()
+| **Docker Images**        | Build, tag, push to DockerHub              |[clickme]()
+| **Multi-Stage Builds**   | Optimize images                            |[clickme]()
+| **Docker Networking**    | Bridge, host, overlay, custom networks     |[clickme]()
+| **Docker Volumes**       | Persistent storage                         |[clickme]()
+| **docker Compose**       | Multi-service apps with Compose            |[clickme]()
+| **node-mongo-app**       | docker + docker compose                    |[clickme]()
+| **node-mongo-app**       | docker + docker compose                    |[clickme]()
+| **node-mongo-app**       | docker + docker compose                    |[clickme]()
+| **Weather App Project**  | Real-world Dockerized project              |[clickme]()
 
 ---
 ## 📚 Resources
