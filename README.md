@@ -60,7 +60,7 @@ docker-from-zero-to-hero/
 | **Docker Images**        | Build, tag, push to DockerHub              |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-image)|
 | **Multi-Stage Builds**   | Optimize images                            |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-multistage-build)|
 | **Docker Networking**    | Bridge, host, overlay, custom networks     |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-networking)|
-| **Docker Volumes**       | Persistent storage                         |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-volume)|
+| **Docker Volumes**       | Persistent storage                         |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker-volumes)|
 | **docker Compose**       | Multi-service apps with Compose            |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/docker_compose)|
 | **node-mongo-app**       | docker + docker compose                    |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/Node-mongo-app)|
 | **Weather App Project**  | Real-world Dockerized project              |[clickme](https://github.com/ritesh355/docker-from-zero-to-hero/tree/main/weather-app)|
