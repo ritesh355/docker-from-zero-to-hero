@@ -128,10 +128,10 @@ Here’s how you can contribute:
 <p align="center">
   If you like this project or found it helpful,  
   <br>
-  🌟 Please give it a star — it motivates me to keep going! 🌟
+  🌟 Please give it a star — it motivates me to keep going! 
 </p>
 
-  [click for star](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
+ ## [star_here🌟](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
 
 
 
