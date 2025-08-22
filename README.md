@@ -69,5 +69,20 @@ docker-from-zero-to-hero/
 | **Weather App Project**  | Real-world Dockerized project              |
 
 ---
+## 📚 Resources
+
+Here are the best resources I used while learning:
+
+- 📖 [Docker Official Documentation](https://docs.docker.com/) – The best place to start and understand Docker from the source.
+- 📚 [Youtube free resources](https://www.youtube.com/watch?v=vWjP3fsfgrw&list=PLoz1vq3JRiWNZBHNOf8uGuXaYTTogQA0t)
+- 📚 [Youtube free resources](https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC)
+- 📚 [Youtube free resources](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=46s)
+- 📚 [docker in one shot](https://www.youtube.com/watch?v=9bSbNNH4Nqw&t=8048s)
+- 📖 [GEEKSFORGEEKS](https://www.geeksforgeeks.org/devops/docker-tutorial/)
+- 🎥 [Docker Mastery – Udemy Course](https://www.udemy.com/course/docker-mastery/) – A complete hands-on course for beginners to advanced.  
+- 📘 [Play with Docker](https://labs.play-with-docker.com/) – Free online playground for practicing Docker commands.  
+- 🐳 [DockerHub](https://hub.docker.com/) – Explore and pull pre-built images to speed up development.  
+- 📝 [CheatSheet – Docker Commands](https://dockerlabs.collabnix.com/docker/cheatsheet/) – Quick reference for common Docker commands.  
+
 
 
