@@ -2,7 +2,7 @@
 
 # 🚀 D Docker Multi-Stage Builds – Explained with a TypeScript Node.js App
 
-Welcome to Day 25 of your DevOps journey! Today, we’re mastering **Docker Multi-Stage Builds** by building a clean and efficient image for a TypeScript-based Node.js app.
+ Today, we’re mastering **Docker Multi-Stage Builds** by building a clean and efficient image for a TypeScript-based Node.js app.
 
 ---
 
@@ -30,6 +30,8 @@ node-ts-app/
 ```
 
 ---
+
+[project](https://github.com/ritesh355/node-ts-app)
 
 ## 🛠 Step-by-Step Breakdown
 
