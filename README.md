@@ -4,11 +4,6 @@
 
 ---
 # 🚀 Docker From Zero To Hero
-
-[![GitHub stars](https://img.shields.io/github/stars/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/network/members)
-[![License](https://img.shields.io/github/license/ritesh355/docker-from-zero-to-hero)](./LICENSE)
-
 ## 📖 Introduction
 Learn Docker step-by-step with hands-on examples.  
 This repo is designed for beginners who want to go from zero to hero.
@@ -17,6 +12,8 @@ This repo is designed for beginners who want to go from zero to hero.
 ```bash
 git clone https://github.com/ritesh355/docker-from-zero-to-hero.git
 cd docker-from-zero-to-hero
+```
+
 ---
 ## 📌 Table of Contents
 - [📖 Introduction](#-introduction)
