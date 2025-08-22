@@ -8,7 +8,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/network/members)
-[![License](https://img.shields.io/github/license/ritesh355/docker-from-zero-to-hero)](./LICENSE)
 
 ---
 ## 📖 Introduction
