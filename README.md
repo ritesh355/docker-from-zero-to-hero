@@ -1,12 +1,13 @@
 <p align="center">
   <img src="assets/banner.png" alt="Docker Learning Banner" width="800">
 </p>
-
+---
 <p align="center">
   <img src="assets/dockerfile-2.png" alt="Docker Learning Banner" width="800">
 </p>
+---
 <p align="center">
-  <img src="assets/banner.png" alt="Docker Learning Banner" width="800">
+  <img src="assets/Essential-Docker-Commands_.webp" alt="Docker Learning Banner" width="800">
 </p>
 
 ---
