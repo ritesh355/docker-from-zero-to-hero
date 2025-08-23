@@ -1,4 +1,5 @@
----
+![Docker Basics](../assets/Images-----Vs---Containers_.webp)
+
 
 # 🚀  Docker Multi-Stage Builds – Explained with a TypeScript Node.js App
 
