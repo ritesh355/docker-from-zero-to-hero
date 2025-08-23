@@ -1,4 +1,6 @@
+![Docker Basics](../assets/Essential-Docker-Commands_.webp)
 
+---
 #  Docker Basic Commands
 
  Today, we focused on mastering essential Docker housekeeping commands to manage containers, images, volumes, and perform clean-up tasks effectively.
