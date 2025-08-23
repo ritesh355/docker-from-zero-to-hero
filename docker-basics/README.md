@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/What-is-Docker__.webp" alt="Docker Banner" width="600"/>
+</p>
+
+---
+
 # 📦  Docker Basics
 
 Today I completed the foundation of Docker and successfully installed it on my local machine. Below is a full summary of everything I learned and practiced.
