@@ -1,3 +1,7 @@
+![Docker Basics](../assets/dockerfile-2.png)
+
+---
+
 # 🐳 What is a Dockerfile?
 
 A **Dockerfile** is a 📜 plain text file with instructions to build a **Docker image** — think of it as a recipe for your app’s environment. When Docker reads it, it executes each step to create a lightweight, portable image for your application. 🚀
