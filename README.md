@@ -4,12 +4,17 @@
 
 ---
 # 🚀 Docker From Zero To Hero
-
-
-[![GitHub stars](https://img.shields.io/github/stars/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/network/members)
+## 📌 Table of Contents
+- [📖 Introduction](#-introduction)
+- [🗂️ Folder Structure](#️-folder-structure)
+- [🚀 Learning Roadmap](#-learning-roadmap)
+- [📚 Resources](#-resources)
+- [🤝 Contributing](#-contributing)
+- [📩 Connect With Me](#-connect-with-me)
 
 ---
+
+
 
 <p align="center">
   <img src="assets/dockerfile-2.png" alt="Docker Learning Banner" width="800">
@@ -30,29 +35,9 @@
   <img src="assets/Essential-Docker-Commands_.webp" alt="Docker Learning Banner" width="800">
 </p>
 
----
-
-## 📖 Introduction
-Learn Docker step-by-step with hands-on examples.  
-This repo is designed for beginners who want to go from zero to hero.
-
-
-## ⚡ Quick Start
-```bash
-git clone https://github.com/ritesh355/docker-from-zero-to-hero.git
-cd docker-from-zero-to-hero
-```
 
 ---
-## 📌 Table of Contents
-- [📖 Introduction](#-introduction)
-- [🗂️ Folder Structure](#️-folder-structure)
-- [🚀 Learning Roadmap](#-learning-roadmap)
-- [📚 Resources](#-resources)
-- [🤝 Contributing](#-contributing)
-- [📩 Connect With Me](#-connect-with-me)
 
----
 
 ## 📖 Introduction
 This repository is a **step-by-step Docker learning guide** — from installing Docker to real-world projects.  
