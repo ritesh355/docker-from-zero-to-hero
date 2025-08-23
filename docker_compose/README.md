@@ -1,4 +1,4 @@
-![Docker Basics](../assets/Docker-Compose_webp)
+![Docker Basics](../assets/Docker-Compose.webp)
 
 
 # 🚀 Docker Compose Guide 
