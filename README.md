@@ -3,6 +3,13 @@
 </p>
 
 ---
+# 🚀 Docker From Zero To Hero
+
+
+[![GitHub stars](https://img.shields.io/github/stars/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/network/members)
+
+---
 
 <p align="center">
   <img src="assets/dockerfile-2.png" alt="Docker Learning Banner" width="800">
@@ -24,13 +31,7 @@
 </p>
 
 ---
-# 🚀 Docker From Zero To Hero
 
-
-[![GitHub stars](https://img.shields.io/github/stars/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ritesh355/docker-from-zero-to-hero)](https://github.com/ritesh355/docker-from-zero-to-hero/network/members)
-
----
 ## 📖 Introduction
 Learn Docker step-by-step with hands-on examples.  
 This repo is designed for beginners who want to go from zero to hero.
