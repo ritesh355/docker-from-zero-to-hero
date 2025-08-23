@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/What-is-Docker__.webp" alt="Docker Banner" />
+  <img src="assets/What-is-Docker__.webp" alt="Docker Banner" />
 </p>
 
 ---
