@@ -10,6 +10,12 @@
 
 ---
 <p align="center">
+  <img src="assets/What-is-Docker__.webp" alt="Docker Learning Banner" width="800">
+</p>
+<p align="center">
+  <img src="assets/Why-Learn-Docker.webp" alt="Docker Learning Banner" width="800">
+</p>
+<p align="center">
   <img src="assets/Key-Features-of-Docker.webp" alt="Docker Learning Banner" width="800">
 </p>
 
