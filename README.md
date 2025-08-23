@@ -9,6 +9,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="assets/Key-Features-of-Docker.webp" alt="Docker Learning Banner" width="800">
+</p>
 
 <p align="center">
   <img src="assets/Essential-Docker-Commands_.webp" alt="Docker Learning Banner" width="800">
