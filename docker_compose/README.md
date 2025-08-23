@@ -1,3 +1,6 @@
+![Docker Basics](../assets/Docker-Compose_webp)
+
+
 # 🚀 Docker Compose Guide 
 
  🎉 Docker Compose lets you define and run multi-container applications with ease, streamlining networking, volumes, and service orchestration. This stylish guide provides theory, key commands with **Purpose** and **Detail**, hands-on tasks, and troubleshooting tips to master Docker Compose. It’s tailored for your Flask + Nginx + MongoDB project, building on your Docker volumes and networking skills. Let’s orchestrate like a DevOps rockstar! 🚢
