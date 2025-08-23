@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/What-is-Docker__.webp" alt="Docker Banner" />
-</p>
+![Docker Basics](../assets/Why-Learn-Docker.webp)
 
 ---
 
