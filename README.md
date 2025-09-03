@@ -16,28 +16,6 @@
 
 
 
-<p align="center">
-  <img src="assets/dockerfile-2.png" alt="Docker Learning Banner" width="800">
-</p>
-
----
-<p align="center">
-  <img src="assets/What-is-Docker__.webp" alt="Docker Learning Banner" width="800">
-</p>
-<p align="center">
-  <img src="assets/Why-Learn-Docker.webp" alt="Docker Learning Banner" width="800">
-</p>
-<p align="center">
-  <img src="assets/Key-Features-of-Docker.webp" alt="Docker Learning Banner" width="800">
-</p>
-
-<p align="center">
-  <img src="assets/Essential-Docker-Commands_.webp" alt="Docker Learning Banner" width="800">
-</p>
-
-
----
-
 
 ## 📖 Introduction
 This repository is a **step-by-step Docker learning guide** — from installing Docker to real-world projects.  
