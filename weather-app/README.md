@@ -1,4 +1,4 @@
-# DAY 30  🌤️ Weather App (Dockerized Flask + Nginx)
+# DAY 30  🌤️ Weather App Dockerized Flask + Nginx
 
 A simple weather app built with Flask and served via Nginx using Docker Compose. Enter a city name and get real-time weather data fetched from the OpenWeatherMap API.
 
